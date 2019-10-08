@@ -635,4 +635,10 @@ var hacktobermap = [
     latitude: 21.1702,
     longitude: 72.8311
   },
+  { 
+    name: "Ankit Kaneri", 
+    location: "Bengaluru", 
+    latitude: 12.924977, 
+    longitude: 77.629992 
+},
 ];
